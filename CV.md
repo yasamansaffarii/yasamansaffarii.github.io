@@ -1,12 +1,15 @@
 # Yasaman Saffari
 
-[PhD Candidate - Kashan University, Iran](https://www.linkedin.com/in/yasaman-saffari-22b937181)
+PhD Candidate - Kashan University, Iran
 
 📧 Email: yasamansaffarii@gmail.com
 📞 Phone: +989377553756
 🌍 Location: Iran, Tehran
 
-[LinkedIn](https://www.linkedin.com/in/yasaman-saffari-22b937181) | [Google Scholar](https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=fa)
+[LinkedIn](https://www.linkedin.com/in/yasaman-saffari-22b937181) | [Google Scholar](https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=fa) | [Huggingface](https://huggingface.co/Yasamansaffari73)
+ | [Researchgate](https://www.researchgate.net/profile/Yasaman-Saffari)
+ | [Github](https://github.com/yasamansaffarii)
+
 
 ## Summary
 
@@ -29,14 +32,14 @@
 ### PhD in Artificial Intelligence
 **Kashan University, Iran**
 *2020 - Present*
--Dr. Javad Salimi Sartakhti
+- Dr. Javad Salimi Sartakhti
 - Research: Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention and Transformers
 - GPA: 3.81
 
 ### Master of Arts - Intelligent Simulator Design
 **Tabriz Islamic Art University, Iran**
 *2017 - 2019*
--Dr. Abbass Ghaffari (Supervisor), Dr. Leila Dubakhti (The second instructor), Dr. Alizadeh (Advisor)
+- Dr. Abbass Ghaffari (Supervisor), Dr. Leila Dubakhti (The second instructor), Dr. Alizadeh (Advisor)
 - Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
 - GPA: 3.79
 
@@ -306,25 +309,32 @@ Zahra Mardani(2) High school
 
 
 ## Skills
+
 **Current Skills**
+
 - NLP
 - Graph embedding
+- Attention Mechanism and Transformers
 - RL
 - Python
 - Tensorflow(Keras)
-- Visual studion code
+- Visual studio code
 - Voice processing
 - Overlaf
 - FLstudio
+  
 **Old Skills**
+  
 - Matlab
 - Unity
 - Zbrush
 - MakeHuman
 - HTCvive
 - Motion capture (Neuron Mocap (Axis Studio))
-- VR (HTC VIVE)
+- VR (HTC VIVE
+
 **Very Old skills**
+
 - PHP (Codeigniter, Xampp, MySQL)
 - C++
 - VHDL (verilog)
