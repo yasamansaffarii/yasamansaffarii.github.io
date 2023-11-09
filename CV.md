@@ -355,6 +355,12 @@ Zahra Mardani(2) High school
 - Adobe Photoshop
 - processing, java
 
+## Hobbies 
+- Music
+- Dance
+- Animals 
+
+  
 ## Languages
 - Persian
 - English
