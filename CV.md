@@ -301,8 +301,7 @@ Zahra Mardani(2) High school
 
 **The first rank of Global Game Jam 2020 (2020)**
 *Sharif University Of Technology*
-- Code and Play:  [troublesome-travel](https://www.linkedin.com/in/yasaman-saffari-22b937181)
-
+- Code and Play:  [troublesome-travel](https://v3.globalgamejam.org/2020/games/troublesome-travel-9)
 **Winning the second place in the egg throwing competition of Shariati College (2014)**
 *Shariaty Technical and Vocational University*
 
