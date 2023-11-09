@@ -68,7 +68,7 @@
 *Feb 2021 - June 2022,*
 MultiMedia Department, Tabriz Islamic Art University, Iran
 
-    Sound Production and Sound Design (Music - FL Studio) (Bachelor students)
+- Sound Production and Sound Design (Music - FL Studio) (Bachelor students)
 
 **Invited Lecturer**
 *Feb 2022 - June 2022,*
