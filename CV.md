@@ -16,7 +16,7 @@
 
 - List your key skills here
 
-## Work Experience
+## Lab and Visiting Experience
 
 ### Acoustic Lab Researcher
 **MultiMedia Department, Tabriz Islamic Art University, Iran**
@@ -39,6 +39,13 @@
 
 - Developed and maintained dynamic websites using XAMPP as the local server, Dreamweaver as the development environment, CodeIgniter as the PHP framework, and MySQL as the database.
 - Utilized HTML, CSS, JavaScript, and PHP to create interactive and user-friendly web interfaces.
+- 
+**Visiting student**
+*Jun 2014 - Sep 2014,*
+Faculty of Computer Science and Engineering, Shahid Beheshti University, Tehran, Iran
+
+- Course: Engineering Statistics
+
 
 ## Education
 
@@ -94,12 +101,6 @@ Kashan University, Iran
 MultiMedia Department, Tabriz Islamic Art University, Iran
 
 - Course: Simulation and Modeling of System 1 (VR lab) (Master students)
-
-**Visiting student**
-*Jun 2014 - Sep 2014,*
-Faculty of Computer Science and Engineering, Shahid Beheshti University, Tehran, Iran
-
-- Course: Engineering Statistics
 
 **Teaching Assistant**
 *Sep 2015 - Feb 2016,*
