@@ -64,9 +64,61 @@
 - GPA: 3.46
 
 ## Teaching Experience
+**Invited Lecturer**
+*Feb 2021 - June 2022,*
+MultiMedia Department, Tabriz Islamic Art University, Iran
 
-[Include any teaching or additional experience here]
+    Sound Production and Sound Design (Music - FL Studio) (Bachelor students)
 
+**Invited Lecturer**
+*Feb 2022 - June 2022,*
+MultiMedia Department, Tabriz Islamic Art University, Iran
+
+- Simulation and Modeling of System 2 (Python and ML in Game and Art) (Master students)
+
+**Invited Lecturer**
+*Sep 2023 - Present,*
+MultiMedia Department, Tabriz Islamic Art University, Iran
+
+- Simulation and Modeling of System 2 (Python and ML in Game and Art) (Master students)
+
+**Teaching Assistant**
+*Sep 2023 - Present,*
+Kashan University, Iran
+
+- Game Theory
+
+**Teaching Assistant**
+*Feb 2019 - June 2019,*
+MultiMedia Department, Tabriz Islamic Art University, Iran
+
+- Course: Simulation and Modeling of System 1 (VR lab) (Master students)
+
+**Visiting student**
+*Jun 2014 - Sep 2014,*
+Faculty of Computer Science and Engineering, Shahid Beheshti University, Tehran, Iran
+
+- Course: Engineering Statistics
+
+**Teaching Assistant**
+*Sep 2015 - Feb 2016,*
+Shariaty Technical and Vocational University
+
+- Microprocessors and Assembly Language (Dr. Hassan Seyed Razi)
+- Book: AVR microcontrollers by Dr. Hassan Seyed Razi, Kian University Press
+
+**Teaching Assistant**
+*Sep 2014 - Feb 2015,*
+Shariaty Technical and Vocational University
+
+- Course: Electric Circuits
+- Book: Fundamental Theory of Circuits and Networks, Volume 1 (Ernest Cough - Charles Deso)
+
+**Private Tutoring**
+Zahra Mardani(2) High school
+
+- Offering personalized, one-on-one instruction in high school-level mathematics and physics, including teaching fellow classmates.
+- 
 ## Custom Section
 
 [Include any additional sections or details you'd like to highlight]
