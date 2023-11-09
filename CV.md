@@ -123,18 +123,6 @@ Zahra Mardani(2) High school
 
 ## Projects
 
-**Balance 2D Runner Game (2019)**
-*Serious Game Prizes (Hacatoon)*
-- MultiMedia Department, Tabriz Islamic Art University, Iran
-- Telma+ Team
-- Unity
-
-**Troublesome Travel Game (2020)**
-*The first rank of Global Game Jam 2020*
-- Sharif University Of Technology
-- 3D game, Unity, C#
-- Atlas Team
-  
 **Dialogue system (2019-Present)**
 *PHD thesis (Supervisor: Dr. Salimi)*
 - Kashan University, Iran
@@ -143,168 +131,139 @@ Zahra Mardani(2) High school
 - Attention mechanism
 - State representation learning
   
-
+**Air Pollution Prediction (Apr 2023 - Apr 2023)**
+*Non-academic*
+- Linear regression, gradient boosting regression, k-neighbors regression, decision tree regression, and random forest regression
+- Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
+  
 **Fine_Tune_XLSR_Wav2Vec2_FA (Apr 2023 - Apr 2023)**
 *Online speech to text (VAD)*
--Kashan University, Iran (Supervisor: Dr. Salimi)
+- Kashan University, Iran (Supervisor: Dr. Salimi)
 - Transformers
 - Farsi
 - Non-academic
 
-**Air Pollution Prediction (Apr 2023 - Apr 2023)**
-- Linear regression, gradient boosting regression, k-neighbors regression, decision tree regression, and random forest regression
-- Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
-- Non-academic
+**Spell Checker FA (May 2023 - May 2023)**
+*bert-base-parsbert-uncased*
+- Kashan University, Iran
+
+**Car Plate Detection (Jan 2022 - July 2022)**
+*Big project - non-academic (Supervisor: Dr. Salimi)*
+- Kashan University, Iran
+- Yolo5
+- Car plate and character detection
+- Dataset labeling
+
+**POS Tagging FA (Sep 2020 - Feb 2021)**
+*Bi-LSTM-CNN*
+- Kashan University, Iran (Course: Machine Learning)
+
+**Implmentation: ESS for Pool Population in the Presence of BWA Attack (Feb 2021 - Aug 2021)**
+- Kashan University, Iran (Course: Game Theory)
+- Python
+
+**Troublesome Travel Game (2020)**
+*The first rank of Global Game Jam 2020*
+- Sharif University Of Technology
+- 3D game, Unity, C#
+- Atlas Team (Role:Programmer)
   
+**Voice Cloning of Voice Actors Using Deep Learning (Feb 2019 - Feb 2020)**
+*Master's thesis, Professor Abbas Ghaffari*
+- MultiMedia Department, Tabriz Islamic Art University, Iran
+- Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
+
+**Balance 2D Runner Game (2019)**
+*Serious Game Prizes (Hacatoon)*
+- MultiMedia Department, Tabriz Islamic Art University, Iran
+- Leading the Telma+ Team
+- Unity
+  
+**Virtual Dance Training System (Sep 2018 - May 2019)**
+*Display and performance at the fourth international exhibition of Tabriz creativity and innovation in handicrafts and Islamic arts International Exhibition - Multimedia Pavilion*
+- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Simulation and Modeling of System 1)
+- Virtual reality environment + motion capture + analysis of matching movements of the instructor and student by two heuristics
+- Praised by the president of the university
+  
+**Music Playlist Explorer Assistant (Sep 2018 - Feb 2019)**
+*Voice search and speech to text conversion*
+- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Advanced Artificial Intelligence)
+- Python
+- Google TTS
+
+**Implementation of Laboratory and Blood Bank Website (Sep 2016 - July 2017)**
+*thesis project for the Bachelor degree, Professor Musa Zadeh*
+- Shariaty Technical and Vocational University
+- Website design with PHP language under MVC architecture with CodeIgniter framework 
+
+**Implementation of the Library Website (Feb 2016 - Aug 2016)**
+- Shariaty Technical and Vocational University (Course: Final project of Mr. Mouszadeh's web design class)
+- Website design with PHP language under MVC architecture with CodeIgniter framework
+
+  
+## Small Projects
+  
+**COVID-19 Prediction (June 2021 - Sep 2021)**
+*RNN*
+- Kashan University, Iran (Course: Neural Networks)
 
 **Face Mask Recognition (Feb 2021 - July 2021)**
-- Face Mask Recognition
-- Kashan University, Iran
-- VGG
-- Hopfield
-- Python
-- Course: Neural network
+*VGG, Hopfield*
+- Kashan University, Iran (Course: Neural network)
 
-**Jan 2021 - June 2021**
-- Bert-fa-finetune
-  - Kashan University, Iran
-  - Dataset: Persian-wikipedia-dataset
-  - Non-academic
+**Bert-fa-finetune (Jan 2021 - June 2021)** 
+*Non-academic*
+- Kashan University, Iran (Supervisor: Dr. Salimi)
+- Dataset: Persian-wikipedia-dataset
 
-**Jan 2021 - June 2021**
-- Handwritten Digit Recognition (Farsi)
-  - Kashan University, Iran
+**Handwritten Digit Recognition (Farsi) (Jan 2021 - June 2021)**
+  - Kashan University, Iran (Course: Pattern recognition)
   - MLP, Hoda dataset
-  - Course: Pattern recognition
 
-**Sep 2020 - Feb 2021**
-- Face Recognition
-  - Kashan University, Iran
-  - Paper implementation: Dissimilarity-based nearest neighbor classifier for single-sample face recognition (Zhengqi Zhang, Li Zhang, Meng Zhang)
-  - Course: Pattern recognition
+**Face Recognition (Sep 2020 - Feb 2021)**
+- Kashan University, Iran (Course: Pattern recognition)
+- Paper implementation: Dissimilarity-based nearest neighbor classifier for single-sample face recognition (Zhengqi Zhang, Li Zhang, Meng Zhang)
 
-**Sep 2020 - Feb 2021**
-- POS Tagging
-  - Kashan University, Iran
-  - Bi-LSTM-CNN
-  - POS tag for Persian language
-  - Python
-  - Course: Machine Learning
+**Simulation of Physics and Projectile Motion Formulas (Feb 2019 - Feb 2020)**
+- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Graphic Programming 1)
+- MATLAB image processing
 
-**Feb 2021 - Aug 2021**
-- ESS for Pool Population in the Presence of BWA Attack
-  - Kashan University, Iran
-  - Python
-  - Course: Game Theory
+**'Khersi' Stop Motion (Sep 2018)**
+- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Special Effects)
 
-**June 2021 - Sep 2021**
-- COVID-19 Prediction
-  - Kashan University, Iran
-  - RNN
-  - Course: Neural Networks
+**Matt Shot Photography (Sep 2018)**
+- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Special Effects)
 
-**Jan 2022 - July 2022**
-- Car Plate Detection
-  - Kashan University, Iran
-  - Yolo5
-  - Car plate and character detection
-  - Dataset labeling
-  - Big project - non-academic
+**3D Happy Pencil Game (Feb 2019)**
+*Global Game Jam international event*
+- MultiMedia Department, Tabriz Islamic Art University, Iran
+- Game scoring system
 
-**May 2023 - May 2023**
-- Spell Checker
-  - Kashan University, Iran
-  - Spell checker for Persian
-  - bert-base-parsbert-uncased
+**Tourism Data Visualization (Feb 2018 - Aug 2018)**
+*Visualization of huge tourism data in the form of an application*
+- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Visualization of Information)
+- Processing software (Java)
 
-**Feb 2019 - Feb 2020**
-- Voice Cloning of Voice Actors Using Deep Learning
-  - MultiMedia Department, Tabriz Islamic Art University, Iran
-  - Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks) as Master's thesis, Professor Abbas Ghaffari
+**2D Spider-Man Game (Aug 2017 - Aug 2017)**
+- Game Maker software
+- Personal
 
-**Feb 2019 - Feb 2020**
-- Simulation of Physics and Projectile Motion Formulas
-  - MultiMedia Department, Tabriz Islamic Art University, Iran
-  - MATLAB image processing
-  - Course: Graphic Programming 1
+**Hardware Simulation and Implementation of a Thermometer (Feb 2016 - June 2016)**
+*Microprocessor laboratory*
+- Shariaty Technical and Vocational University
+- Proteus for AVR microcontroller simulations
 
-**Sep 2018**
-- 'Khersi' Stop Motion
-  - MultiMedia Department, Tabriz Islamic Art University, Iran
-  - Course: Special Effects
+**Building a Basic Network (Sep 2016 - Feb 2017)**
+*Cisco Packet Tracer*
+- Shariaty Technical and Vocational University (Course: Internet Engineering)
 
-**Sep 2018**
-- Matt Shot Photography
-  - MultiMedia Department, Tabriz Islamic Art University, Iran
-  - Course: Special Effects
+**Implementation of an Application for Online Library (Sep 2015 - Feb 2016)**
+- Shariaty Technical and Vocational University (Course: Software engineering)
+- C# language in Visual Studio environment
 
-**Sep 2018 - May 2019**
-- Virtual Dance Training System
-  - MultiMedia Department, Tabriz Islamic Art University, Iran
-  - Virtual reality environment + motion capture + analysis of matching movements of the instructor and student by two heuristics
-  - Praised by the president of the university
-  - Display and performance at the fourth international exhibition of Tabriz creativity and innovation in handicrafts and Islamic arts International Exhibition - Multimedia Pavilion
-  - Course: Special Effects
-
-**Sep 2018 - Feb 2019**
-- Music Playlist Searcher Assistant
-  - MultiMedia Department, Tabriz Islamic Art University, Iran
-  - Voice search and speech to text conversion
-  - Python
-  - Google TTS
-  - Course: Advanced Artificial Intelligence
-
-**Feb 2019**
-- 3D Happy Pencil Game
-  - MultiMedia Department, Tabriz Islamic Art University, Iran
-  - Global Game Jam international event, making a game in 48 hours - Game scoring system
-
-**Aug 2017 - Aug 2017**
-- 2D Spider-Man Game
-  - Game Maker software
-
-**Feb 2018 - Aug 2018**
-- Tourism Data Visualization
-  - MultiMedia Department, Tabriz Islamic Art University, Iran
-  - Processing software (Java)
-  - Visualization of huge tourism data in the form of an application
-  - Course: Visualization of Information
-
-**Sep 2016 - July 2017**
-- Implementation of Laboratory and Blood Bank Website
-  - Shariaty Technical and Vocational University
-  - Website design with PHP language under MVC architecture with CodeIgniter framework as the thesis project for the Bachelor degree, Professor Musa Zadeh
-
-**Feb 2016 - Aug 2016**
-- Implementation of the Library Website
-  - Shariaty Technical and Vocational University
-  - Website design with PHP language under MVC architecture with CodeIgniter framework as the final project of Mr. Mouszadeh's web design class
-
-**Feb 2016 - June 2016**
-- Hardware Simulation and Implementation of a Thermometer
-  - Shariaty Technical and Vocational University
-  - Microprocessor laboratory
-  - Proteus for AVR microcontroller simulations
-
-**Sep 2016 - Feb 2017**
-- Building a Basic Network
-  - Shariaty Technical and Vocational University
-  - In Cisco Packet Tracer for Internet Engineering course
-
-**Sep 2015 - Feb 2016**
-- Implementation of an Application for Online Library
-  - Shariaty Technical and Vocational University
-  - In C# language in Visual Studio environment for software engineering course
-
-**Sep 2015 - Feb 2016**
-- Implementation of a Simple SLR Parser
-  - Shariaty Technical and Vocational University
-  - In the Borland C++ environment for the compiler design fundamentals course
-
-**Mar 2015 - Mar 2015**
-- Analysis of all the stages of building a smart router.
-  - Shariaty Technical and Vocational University
-  - Research method and presentation course
+**Implementation of a Simple SLR Parser (Sep 2015 - Feb 2016)**
+*Borland C++*
+- Shariaty Technical and Vocational University (Course: Compiler design fundamentals)
 
 
 ## Awards
