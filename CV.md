@@ -12,30 +12,38 @@
 
 [Include a brief summary or bio here]
 
-## Skills
+## Current Interests
 
-- List your key skills here
+- Dialogue Systems
+- DQN Variants
+- Attentional Based State Representation
+- Topological State Representation (Graphs)
+- Node2Vec, GraphSage
+- Python
+- Tensorflow (Keras)
+
+
 
 ## Education
 
 ### PhD in Artificial Intelligence
 **Kashan University, Iran**
 *2020 - Present*
-
+-Dr. Javad Salimi Sartakhti
 - Research: Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention and Transformers
 - GPA: 3.81
 
 ### Master of Arts - Intelligent Simulator Design
 **Tabriz Islamic Art University, Iran**
 *2017 - 2019*
-
+-Dr. Abbass Ghaffari (Supervisor), Dr. Leila Dubakhti (The second instructor), Dr. Alizadeh (Advisor)
 - Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
 - GPA: 3.79
 
 ### Bachelor of Software Computer Engineering
 **Shariaty Technical and Vocational University**
 *2014 - 2017*
-
+- Mr. Yousef MusaZadeh
 - Thesis: Blood Laboratory Website Design (PHP)
 - GPA: 3.46
 
@@ -296,3 +304,37 @@ Zahra Mardani(2) High school
 **Obtaining the first place in the Robocup competition of the 10th region of Tehran province (2010)**
 *Zahra Mardani High School for Girls 2, Tehran, Iran*
 
+
+## Skills
+**Current Skills**
+- NLP
+- Graph embedding
+- RL
+- Python
+- Tensorflow(Keras)
+- Visual studion code
+- Voice processing
+- Overlaf
+- FLstudio
+**Old Skills**
+- Matlab
+- Unity
+- Zbrush
+- MakeHuman
+- HTCvive
+- Motion capture (Neuron Mocap (Axis Studio))
+- VR (HTC VIVE)
+**Very Old skills**
+- PHP (Codeigniter, Xampp, MySQL)
+- C++
+- VHDL (verilog)
+- Proteus
+- CodeVisionAVR
+- avrStudio
+- Cisco
+- Adobe Photoshop
+- processing, java
+
+## Languages
+- Persian
+- English
