@@ -16,6 +16,30 @@
 
 - List your key skills here
 
+## Education
+
+### PhD in Artificial Intelligence
+**Kashan University, Iran**
+*2020 - Present*
+
+- Research: Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention and Transformers
+- GPA: 3.81
+
+### Master of Arts - Intelligent Simulator Design
+**Tabriz Islamic Art University, Iran**
+*2017 - 2019*
+
+- Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
+- GPA: 3.79
+
+### Bachelor of Software Computer Engineering
+**Shariaty Technical and Vocational University**
+*2014 - 2017*
+
+- Thesis: Blood Laboratory Website Design (PHP)
+- GPA: 3.46
+
+
 ## Lab and Visiting Experience
 
 ### Acoustic Lab Researcher
@@ -39,36 +63,13 @@
 
 - Developed and maintained dynamic websites using XAMPP as the local server, Dreamweaver as the development environment, CodeIgniter as the PHP framework, and MySQL as the database.
 - Utilized HTML, CSS, JavaScript, and PHP to create interactive and user-friendly web interfaces.
-- 
+  
 ### Visiting student
 **Faculty of Computer Science and Engineering, Shahid Beheshti University, Tehran, Iran**
 *Jun 2014 - Sep 2014*
 
 - Course: Engineering Statistics
 
-
-## Education
-
-### PhD in Artificial Intelligence
-**Kashan University, Iran**
-*2020 - Present*
-
-- Research: Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention and Transformers
-- GPA: 3.81
-
-### Master of Arts - Intelligent Simulator Design
-**Tabriz Islamic Art University, Iran**
-*2017 - 2019*
-
-- Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
-- GPA: 3.79
-
-### Bachelor of Software Computer Engineering
-**Shariaty Technical and Vocational University**
-*2014 - 2017*
-
-- Thesis: Blood Laboratory Website Design (PHP)
-- GPA: 3.46
 
 
 ## Teaching Experience
