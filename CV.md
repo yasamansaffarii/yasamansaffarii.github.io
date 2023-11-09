@@ -54,7 +54,12 @@ PhD Candidate - Kashan University, Iran
 1. Y Saffari, J Salimi Sartakhti, "Actor Double Critic Architecture for Dialogue System," *Journal of Electrical and Computer Engineering Innovations (JECEI)*, 11 (2), 2023
 2. SA Faregh, Y Saffari, M Jafari Sisis, "The Impact of Gamification on the Teaching and Learning Process of Conflict Management," *Technology of Education Journal (TEJ)*, 15 (4), 657-672, 2021
 3. Y Saffari, A Ghaffari, L Dobakhi, B Alizade-Ashrafi, "Computer Games for Dubbing Teaching: The 'Dublor Sho' Game," *The 5th International Conference on Computer Games; Challenges and Opportunities*, 2020
-4. Y Saffari, S Nasre-Esfahani, R Hayati, Y Sekhavat, "بررسی کارایی آموزش مبتنی بر تقلید حرکت در محیط واقعیت مجازی برای حرکات موزون آذری‎," *The 4th International Conference on Computer Games; Challenges and Opportunities*, 2019 (Eng Title: Investigating the effectiveness of teaching based on movement imitation in a virtual reality environment for Azari dance)
+4. Y Saffari, S Nasre-Esfahani, R Hayati, Y Sekhavat, "بررسی کارایی آموزش مبتنی بر تقلید حرکت در محیط واقعیت مجازی برای حرکات موزون آذری‎," *The 4th International Conference on Computer Games; Challenges and Opportunities*, 2019 (Eng Title: Investigating the effectiveness of teaching based on movement imitation in a virtual reality environment for Azari dance
+
+**Submitted, Under review**
+1. StateStruc: Infused Graph-Structural State Embeddings in Dialogue System
+2. CODACAN : Distributional Actor Critic with Hierarchical Attention-based State Representation for Dialogue Policy Learning
+
 
 ## Lab and Visiting Experience
 
