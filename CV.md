@@ -323,38 +323,16 @@ Zahra Mardani(2) High school
 
 **Current Skills**
 
-- NLP
-- Graph embedding
-- Attention Mechanism and Transformers
-- RL
-- Python
-- Tensorflow(Keras)
-- Visual studio code
-- Voice processing
-- Overlaf
-- FLstudio
+- Dialogue system, Attention Mechanism and Transformers, NLP, Graph embedding, Attention Mechanism and Transformers, Voice processing
+- Python, Tensorflow(Keras), VScode, Overleaf, FLstudio 
   
-**Old Skills**
-  
-- Matlab
-- Unity
-- Zbrush
-- MakeHuman
-- HTCvive
-- Motion capture (Neuron Mocap (Axis Studio))
-- VR (HTC VIVE
+**latent Skills**
+- Matlab, Unity, Zbrush, MakeHuman
+- HTCvive, Motion capture (Neuron Mocap (Axis Studio)),  VR (HTC VIVE)
 
-**Very Old skills**
+**dormant skills**
 
-- PHP (Codeigniter, Xampp, MySQL)
-- C++
-- VHDL (verilog)
-- Proteus
-- CodeVisionAVR
-- avrStudio
-- Cisco
-- Adobe Photoshop
-- processing, java
+- PHP (Codeigniter, Xampp, MySQL), C++, VHDL (verilog), Proteus, CodeVisionAVR, avrStudio, Cisco, Adobe Photoshop, processing, java
 
 ## Hobbies 
 - Music
