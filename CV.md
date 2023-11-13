@@ -13,40 +13,21 @@
 **********************
 # About me
 I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for learning structural state representations by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN), aiming to enhance policy learning within discrete state-action spaces, with a special emphasis on dialogue systems.
-
-My master's degree is in Intelligent Simulator Design from Tabriz Islamic Art University, with a thesis focused on exploring the influential factors of speech phonology through simulating lasting voices in dubbing, employing Voice Cloning using Deep Neural Networks. In addition to my thesis, during the master's program, I developed a VR dance teaching application. I have professional experience with VR equipment such as HTCVIVE and Neuron Mocap. Furthermore, I have expertise in teaching music production in FL Studio.
-
-While I may not be perfect, I can assure you that I am committed to giving my best to learn and adapt to new challenges. I am open to delving into any field because I firmly believe that a truly impactful project demands a diverse skill set. You don't have to be perfect in every aspect, but having knowledge about all elements enables you to excel in your specific role and contribute to the success of the entire project.
 ************
 ## Current Interests
-- Dialogue Systems
-- DQN Variants
-- Attentional Based State Representation
-- Topological State Representation (Graphs)
-- Node2Vec, GraphSage
-- Python
-- Tensorflow (Keras)
+Dialogue Systems, Reinforcement learning, Attentional Based State Representation, Topological State Representation (Graphs), Node2Vec, GraphSage, Python, Tensorflow (Keras)
 ***************
 ## Education
 
-##### PhD in Artificial Intelligence
-***Kashan University, Iran***
-*2020 - Present*
-- Dr. Javad Salimi Sartakhti
+**PhD in Artificial Intelligence** *(2020 - Present)*: Superviser: Dr. Javad Salimi Sartakhti, Kashan University, Iran
 - Research: Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention and Transformers
 - GPA: 3.81
-
-##### Master of Arts - Intelligent Simulator Design
-***Tabriz Islamic Art University, Iran***
-*2017 - 2019*
-- Dr. Abbass Ghaffari (Supervisor), Dr. Leila Dubakhti (The second instructor), Dr. Alizadeh (Advisor)
+  
+**Master of Arts - Intelligent Simulator Design** *(2017 - 2019)*: Superviser: Dr. Abbass Ghaffari, Tabriz Islamic Art University, Iran
 - Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
 - GPA: 3.79
-
-##### Bachelor of Software Computer Engineering
-***Shariaty Technical and Vocational University***
-*2014 - 2017*
-- Mr. Yousef MusaZadeh
+  
+**Bachelor of Software Computer Engineering** *(2014 - 2017)*: Superviser: Mr. Yousef MusaZadeh, Tabriz Islamic Art University, Iran
 - Thesis: Blood Laboratory Website Design (PHP)
 - GPA: 3.46
 ********************
@@ -63,29 +44,10 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 ********************
 ## Lab and Visiting Experience
 
-##### Acoustic Lab Researcher
-***Sep 2019 - Jan 2020***
-*MultiMedia Department, Tabriz Islamic Art University, Iran*
-- Collabrated and Established and managed the Acoustic Lab, including equipment setup and organization.
-- Utilized lab resources for specific aspects of my Master's thesis work, contributing to research and academic achievements.
-
-##### VR Lab Development and Research
-***Sep 2018 - June 2019***
-*MultiMedia Department, Tabriz Islamic Art University, Iran*
-- Founded and managed the establishment of the VR lab, fostering a hub for cutting-edge research and innovation.
-- Conducted pioneering research in VR gaming applications.
-- Developed a unique "virtual dance teaching" application using VR and motion capture technology.
-
-##### Internship: Web Developer
-***Feb 2016 - June 2016***
-*Ministry of Cooperatives Labour and Social Welfare (ICT)*
-- Developed and maintained dynamic websites using XAMPP as the local server, Dreamweaver as the development environment, CodeIgniter as the PHP framework, and MySQL as the database.
-- Utilized HTML, CSS, JavaScript, and PHP to create interactive and user-friendly web interfaces.
-
-##### Visiting student
-***Jun 2014 - Sep 2014***
-*Faculty of Computer Science and Engineering, Shahid Beheshti University, Tehran, Iran*
-- Course: Engineering Statistics
+- **Acoustic Lab Researcher** (Sep 2019 - Jan 2020): Co-Established and managed the Acoustic Lab (Master's Thesis), MultiMedia Dept., Tabriz Islamic Art Univ., Iran
+- **VR Lab Development and Research** (Sep 2018 - June 2019): Co-Established and managed the VR + Mocap lab (Master research), MultiMedia Dept., Tabriz Islamic Art Univ., Iran
+- **Internship: Web Developer** (Feb 2016 - June 2016): Co-Established and managed the Acoustic Lab (Master's Thesis), MultiMedia Dept., Tabriz Islamic Art Univ., Iran
+- **Visiting student** (Jun 2014 - Sep 2014): Course: Engineering Statistics, Faculty of Computer Science and Engineering, Shahid Beheshti University, Tehran, Iran
 ********************
 ## Teaching Experience
 - **Invited Lecturer** (Feb 2022 - **Present**): Simulation and Modeling of System 2 (Python and ML in Game and Art) (Master students), MultiMedia Dept., Tabriz Islamic Art Univ., Iran (2 semesters)
@@ -97,94 +59,26 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - **Private Tutoring**: Personalized instruction in high school-level math and physics, incl. teaching classmates., Zahra Mardani(2) High school
 *******************
 ## Projects
-**Dialogue system (2019-Present)**
-*PHD thesis (Supervisor: Dr. Salimi)*
-- Kashan University, Iran
-- Deep Reinforcment Learning
-- Graph embedding
-- Attention mechanism
-- State representation learning
-  
-**Air Pollution Prediction (Apr 2023 - Apr 2023)**
-*Non-academic*
-- Linear regression, gradient boosting regression, k-neighbors regression, decision tree regression, and random forest regression
-- Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
-  
-**Fine_Tune_XLSR_Wav2Vec2_FA (Apr 2023 - Apr 2023)**
-*Online speech to text (VAD)*
-- Kashan University, Iran (Supervisor: Dr. Salimi)
-- Transformers
-- Farsi
-- Non-academic
-
-**Spell Checker FA (May 2023 - May 2023)**
-*bert-base-parsbert-uncased*
-- Kashan University, Iran
-
-**Car Plate Detection (Jan 2022 - July 2022)**
-*Big project - non-academic (Supervisor: Dr. Salimi)*
-- Kashan University, Iran
-- Yolo5
-- Car plate and character detection
-- Dataset labeling
-
-**POS Tagging FA (Sep 2020 - Feb 2021)**
-*Bi-LSTM-CNN*
-- Kashan University, Iran (Course: Machine Learning)
-
-**Implmentation: ESS for Pool Population in the Presence of BWA Attack (Feb 2021 - Aug 2021)**
-- Kashan University, Iran (Course: Game Theory)
-- Python
-
-**Troublesome Travel Game (2020)**
-*The first rank of Global Game Jam 2020*
-- Sharif University Of Technology
-- 3D game, Unity, C#
-- Atlas Team (Role:Programmer)
-  
-**Voice Cloning of Voice Actors Using Deep Learning (Feb 2019 - Feb 2020)**
-*Master's thesis, Professor Abbas Ghaffari*
-- MultiMedia Department, Tabriz Islamic Art University, Iran
-- Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
-  
-**Virtual Dance Training System (Sep 2018 - May 2019)**
-*Display and performance at the fourth international exhibition of Tabriz creativity and innovation in handicrafts and Islamic arts International Exhibition - Multimedia Pavilion*
-- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Simulation and Modeling of System 1)
-- Virtual reality environment + motion capture + analysis of matching movements of the instructor and student by two heuristics
-- Praised by the president of the university
-  
-**Music Playlist Explorer Assistant (Sep 2018 - Feb 2019)**
-*Voice search and speech to text conversion*
-- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Advanced Artificial Intelligence)
-- Python
-- Google TTS
-
-**Implementation of Laboratory and Blood Bank Website (Sep 2016 - July 2017)**
-*thesis project for the Bachelor degree, Professor Musa Zadeh*
-- Shariaty Technical and Vocational University
-- Website design with PHP language under MVC architecture with CodeIgniter framework 
-
-**Implementation of the Library Website (Feb 2016 - Aug 2016)**
-- Shariaty Technical and Vocational University (Course: Final project of Mr. Mouszadeh's web design class)
-- Website design with PHP language under MVC architecture with CodeIgniter framework
+- **Dialogue system (2019-Present)** *PHD thesis, (DRL, GRL, State tracking, Attention mechanism) (Supervisor: Dr. Salimi)*
+- **Air Pollution Prediction (Apr 2023 - Apr 2023)**
+- **Car Plate Detection (Yolo5) (Jan 2022 - July 2022)** *Big project - non-academic (Supervisor: Dr. Salimi)*
+- **Troublesome Travel Game (2020)** *The first rank of Global Game Jam 2020 (lOC: Sharif Univ.*
+- **Voice Cloning of Voice Actors Using Deep Learning (Feb 2019 - Feb 2020)** *Master's thesis*
+- **Virtual Dance Training System (VR+Mocap) (Sep 2018 - May 2019)** *Fourth international exhibition of Tabriz creativity and innovation in handicrafts and Islamic arts International Exhibition - Multimedia Pavilion*
+- **Music Playlist Explorer Assistant (Sep 2018 - Feb 2019)** *Voice search and speech to text conversion*
+- **Implementation of Laboratory and Blood Bank Website (PHP) (Sep 2016 - July 2017)** *Thesis project for the Bachelor degree, Professor Musa Zadeh*
+- **Implementation of the Library Website (Feb 2016 - Aug 2016):** *PHP*
  *********************
-## Small Projects
-- **COVID-19 Prediction (June 2021 - Sep 2021):** *RNN*, Neural Networks, Kashan University, Iran
-- **Face Mask Recognition (Feb 2021 - July 2021):** *VGG, Hopfield*, Neural network, Kashan University, Iran
-- **Bert-fa-finetune (Jan 2021 - June 2021):** *Non-academic*, Supervisor: Dr. Salimi, Persian-wikipedia-dataset, Kashan University, Iran
-- **Handwritten Digit Recognition (Farsi) (Jan 2021 - June 2021):** MLP, Hoda dataset, Pattern recognition, Kashan University, Iran
-- **Face Recognition (Sep 2020 - Feb 2021):** Paper implementation: Dissimilarity-based nearest neighbor classifier for single-sample face recognition (Zhengqi Zhang, Li Zhang, Meng Zhang), Pattern recognition, Kashan University, Iran
-- **Simulation of Physics and Projectile Motion Formulas (Feb 2019 - Feb 2020):** MATLAB image processing, Graphic Programming 1, MultiMedia Department, Tabriz Islamic Art University, Iran
-- **Balance 2D Runner Game (2019):** *Serious Game Prizes (Hacatoon)*, Leading the Telma+ Team, Unity, MultiMedia Department, Tabriz Islamic Art University, Iran
-- **'Khersi' Stop Motion (Sep 2018):** Special Effects, MultiMedia Department, Tabriz Islamic Art University, Iran
-- **Matt Shot Photography (Sep 2018):** Special Effects, MultiMedia Department, Tabriz Islamic Art University, Iran
-- **3D Happy Pencil Game (Feb 2019):** *Global Game Jam international event*, Game scoring system, Code and Play: [Happy Pencil](https://v3.globalgamejam.org/2019/games/happypencil), MultiMedia Department, Tabriz Islamic Art University, Iran
-- **Tourism Data Visualization (Feb 2018 - Aug 2018):** *Visualization of huge tourism data in the form of an application*, Processing software (Java), Visualization of Information, MultiMedia Department, Tabriz Islamic Art University, Iran
-- **2D Spider-Man Game (Aug 2017 - Aug 2017):** Game Maker software, Personal
-- **Hardware Simulation and Implementation of a Thermometer (Feb 2016 - June 2016):** *Microprocessor laboratory*, Proteus for AVR microcontroller simulations, Shariaty Technical and Vocational University
-- **Building a Basic Network (Sep 2016 - Feb 2017):** *Cisco Packet Tracer*, Internet Engineering, Shariaty Technical and Vocational University
-- **Implementation of an Application for Online Library (Sep 2015 - Feb 2016):** C# language in Visual Studio environment, Software engineering, Shariaty Technical and Vocational University
-- **Implementation of a Simple SLR Parser (Sep 2015 - Feb 2016):** *Borland C++*, Compiler design fundamentals, Shariaty Technical and Vocational University
+## Recent Small Projects
+- **Fine_Tune_XLSR_Wav2Vec2_FA (Apr 2023 - Apr 2023)** *Online speech to text (VAD)*
+- **Spell Checker FA (May 2023 - May 2023)** *bert-base-parsbert-uncased*
+- **COVID-19 Prediction (June 2021 - Sep 2021):** *RNN*
+- **Implmentation: ESS for Pool Population in the Presence of BWA Attack (Feb 2021 - Aug 2021)**
+- **Face Mask Recognition (Feb 2021 - July 2021):** *VGG, Hopfield*
+- **Bert-fa-finetune (Jan 2021 - June 2021):** *Non-academic*
+- **Handwritten Digit Recognition (Farsi) (Jan 2021 - June 2021):** *MLP*
+- **POS Tagging FA (Sep 2020 - Feb 2021)** *Bi-LSTM-CNN*
+- **Face Recognition (Sep 2020 - Feb 2021):** *Paper implementation: Dissimilarity-based nearest neighbor classifier for single-sample face recognition (Zhengqi Zhang, Li Zhang, Meng Zhang)*
 ***************************
 ## Awards
 
@@ -198,18 +92,8 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - **Obtaining the first place in the Robocup competition of the 10th region of Tehran province (2010):** *Zahra Mardani High School for Girls 2, Tehran, Iran*
 *******************************
 ## Skills
-
-**Current Skills**
-
-- Dialogue system, Attention Mechanism and Transformers, NLP, Graph embedding, Attention Mechanism and Transformers, Voice processing
-- Python, Tensorflow(Keras), VScode, Overleaf, FLstudio 
+- Dialogue system, Attention Mechanism and Transformers, RL, NLP, Graph embedding, Voice processing
+- Python, Tensorflow(Keras) 
   
-**latent Skills**
-- Matlab, Unity, Zbrush, MakeHuman
-- HTCvive, Motion capture (Neuron Mocap (Axis Studio)),  VR (HTC VIVE)
-****************************
-## Languages
-- Persian
-- English
 
 
