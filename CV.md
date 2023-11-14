@@ -1,20 +1,18 @@
 # Yasaman Saffari
-
-![Alt Text](https://i.ibb.co/vvVfYt6/yasaman1.jpg)
 **PhD Candidate - Kashan University, Iran**
 ***************************
-📧 Email: yasamansaffarii@gmail.com
-📞 Phone: +989377553756
-🌍 Location: Iran, Tehran
+Email: yasamansaffarii@gmail.com |
+Phone: +989377553756|
+Location: Iran, Tehran
 ******************
 [LinkedIn](https://www.linkedin.com/in/yasaman-saffari-22b937181) | [Google Scholar](https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=fa) | [Huggingface](https://huggingface.co/Yasamansaffari73)
  | [Researchgate](https://www.researchgate.net/profile/Yasaman-Saffari)
- | [Github](https://github.com/yasamansaffarii)
+ | [Github](https://github.com/yasamansaffarii) | [CV-Short](https://github.com/yasamansaffarii/yasamansaffarii.github.io/blob/main/Yasaman%20Saffari.pdf) | [CV-Long](https://github.com/yasamansaffarii/yasamansaffarii.github.io/blob/main/Yasaman%20Saffari.pdf)
 **********************
 # About me
 I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for learning structural state representations by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN), aiming to enhance policy learning within discrete state-action spaces, with a special emphasis on dialogue systems.
 ************
-## Current Interests
+## Current Interests AND Skills
 Dialogue Systems, Reinforcement learning, Attentional Based State Representation, Topological State Representation (Graphs), Node2Vec, GraphSage, Python, Tensorflow (Keras)
 ***************
 ## Education
@@ -69,7 +67,7 @@ Dialogue Systems, Reinforcement learning, Attentional Based State Representation
 - **Implementation of Laboratory and Blood Bank Website (PHP) (Sep 2016 - July 2017)** *Thesis project for the Bachelor degree, Professor Musa Zadeh*
 - **Implementation of the Library Website (Feb 2016 - Aug 2016):** *PHP*
  *********************
-## Recent Small Projects
+### Recent Small Projects:
 - **Fine_Tune_XLSR_Wav2Vec2_FA (Apr 2023 - Apr 2023)** *Online speech to text (VAD)*
 - **Spell Checker FA (May 2023 - May 2023)** *bert-base-parsbert-uncased*
 - **COVID-19 Prediction (June 2021 - Sep 2021):** *RNN*
@@ -90,10 +88,6 @@ Dialogue Systems, Reinforcement learning, Attentional Based State Representation
 - **Obtaining the second place in the region in drawing with colored pencils (2011):** *Zahra Mardani High School for Girls 2, Tehran, Iran*
 - **Passing the first stage of the National Computer Olympiad (2010):** *Zahra Mardani High School for Girls 2, Tehran, Iran*
 - **Obtaining the first place in the Robocup competition of the 10th region of Tehran province (2010):** *Zahra Mardani High School for Girls 2, Tehran, Iran*
-*******************************
-## Skills
-- Dialogue system, Attention Mechanism and Transformers, RL, NLP, Graph embedding, Voice processing
-- Python, Tensorflow(Keras) 
+
+
   
-
-
