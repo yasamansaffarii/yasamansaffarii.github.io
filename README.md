@@ -9,7 +9,7 @@
 ******************
 [LinkedIn](https://www.linkedin.com/in/yasaman-saffari-22b937181) | [Google Scholar](https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=fa) | [Huggingface](https://huggingface.co/Yasamansaffari73)
  | [Researchgate](https://www.researchgate.net/profile/Yasaman-Saffari)
- | [Github](https://github.com/yasamansaffarii)| [CV](https://github.com/yasamansaffarii/yasamansaffarii.github.io/blob/main/Yasaman%20Saffari.pdf)
+ | [Github](https://github.com/yasamansaffarii)| [CV-Short](https://github.com/yasamansaffarii/yasamansaffarii.github.io/blob/main/Yasaman%20Saffari.pdf) | [CV-Long](https://github.com/yasamansaffarii/yasamansaffarii.github.io/blob/main/Yasaman%20Saffari.pdf)
 **********************
 # About me
 I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for learning structural state representations by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN), aiming to enhance policy learning within discrete state-action spaces, with a special emphasis on dialogue systems.
@@ -29,21 +29,21 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 ***************
 ## Education
 
-##### PhD in Artificial Intelligence
+### PhD in Artificial Intelligence
 ***Kashan University, Iran***
 *2020 - Present*
 - Dr. Javad Salimi Sartakhti
 - Research: Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention and Transformers
 - GPA: 3.81
 
-##### Master of Arts - Intelligent Simulator Design
+### Master of Arts - Intelligent Simulator Design
 ***Tabriz Islamic Art University, Iran***
 *2017 - 2019*
 - Dr. Abbass Ghaffari (Supervisor), Dr. Leila Dubakhti (The second instructor), Dr. Alizadeh (Advisor)
 - Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
 - GPA: 3.79
 
-##### Bachelor of Software Computer Engineering
+### Bachelor of Software Computer Engineering
 ***Shariaty Technical and Vocational University***
 *2014 - 2017*
 - Mr. Yousef MusaZadeh
@@ -63,26 +63,26 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 ********************
 ## Lab and Visiting Experience
 
-##### Acoustic Lab Researcher
+### Acoustic Lab Researcher
 ***Sep 2019 - Jan 2020***
 *MultiMedia Department, Tabriz Islamic Art University, Iran*
 - Collabrated and Established and managed the Acoustic Lab, including equipment setup and organization.
 - Utilized lab resources for specific aspects of my Master's thesis work, contributing to research and academic achievements.
 
-##### VR Lab Development and Research
+### VR Lab Development and Research
 ***Sep 2018 - June 2019***
 *MultiMedia Department, Tabriz Islamic Art University, Iran*
 - Founded and managed the establishment of the VR lab, fostering a hub for cutting-edge research and innovation.
 - Conducted pioneering research in VR gaming applications.
 - Developed a unique "virtual dance teaching" application using VR and motion capture technology.
 
-##### Internship: Web Developer
+### Internship: Web Developer
 ***Feb 2016 - June 2016***
 *Ministry of Cooperatives Labour and Social Welfare (ICT)*
 - Developed and maintained dynamic websites using XAMPP as the local server, Dreamweaver as the development environment, CodeIgniter as the PHP framework, and MySQL as the database.
 - Utilized HTML, CSS, JavaScript, and PHP to create interactive and user-friendly web interfaces.
 
-##### Visiting student
+### Visiting student
 ***Jun 2014 - Sep 2014***
 *Faculty of Computer Science and Engineering, Shahid Beheshti University, Tehran, Iran*
 - Course: Engineering Statistics
