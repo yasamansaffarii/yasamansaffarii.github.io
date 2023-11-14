@@ -9,7 +9,7 @@
 ******************
 [LinkedIn](https://www.linkedin.com/in/yasaman-saffari-22b937181) | [Google Scholar](https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=fa) | [Huggingface](https://huggingface.co/Yasamansaffari73)
  | [Researchgate](https://www.researchgate.net/profile/Yasaman-Saffari)
- | [Github](https://github.com/yasamansaffarii)| [CV-Short](https://github.com/yasamansaffarii/yasamansaffarii.github.io/blob/main/Yasaman%20Saffari.pdf) | [CV-Long](https://github.com/yasamansaffarii/yasamansaffarii.github.io/blob/main/Yasaman%20Saffari.pdf)
+ | [Github](https://github.com/yasamansaffarii)| [CV-Short](https://yasamansaffarii.github.io/YasamanShortCV.pdf) | [CV-Long](https://github.com/yasamansaffarii/yasamansaffarii.github.io/blob/main/Yasaman%20Saffari.pdf)
 **********************
 # About me
 I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for learning structural state representations by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN), aiming to enhance policy learning within discrete state-action spaces, with a special emphasis on dialogue systems.
