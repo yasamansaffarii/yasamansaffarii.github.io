@@ -1,6 +1,5 @@
 # Yasaman Saffari
 
-![Alt Text](https://i.ibb.co/vvVfYt6/yasaman1.jpg)
 **PhD Candidate - Kashan University, Iran**
 ***************************
 📧 Email: yasamansaffarii@gmail.com
