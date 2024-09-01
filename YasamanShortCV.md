@@ -59,7 +59,7 @@ Kashan University, Iran
 **********************
 **********************
 ## Top Selected Awards
-- **The 3rd place of Persian llm-hackathon in "selection stage" (2024):** *(quera) In cooperation with the metadata headquarters of the National Cyber Space Center and within the framework of the Shahid Babaei project of the National Elite Foundation - [Results](https://quera.org/contest/assignments/64356/scoreboard/)*
+- **The 3rd place of Persian llm-hackathon in "selection stage" (2024):** *quera - [Results](https://quera.org/contest/assignments/64356/scoreboard/)*
 - **Full fund with quota of brilliant talents (Sep 2020 - Present):** Kashan University, Iran - PhD position in AI, Computer Engineering
 - **The second rank of graduation of the master's degree (Feb 2020):** Tabriz Islamic Art University, Iran - MultiMedia Department
 - **The first rank of Global Game Jam 2020 (2020):** Sharif University Of Technology - Code and Play: troublesome-travel
