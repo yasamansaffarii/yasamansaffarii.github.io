@@ -50,6 +50,13 @@ Shariaty Technical and Vocational University, Iran; Supervisor: Mr. Yousef MusaZ
 1. Handling Fuzzy State Transitions in RL: A GMM and Graph Embedding Approach, (*Under Prep*)
 2. RL-Driven Adapter Switching in Medical Dialogue Systems for Sub-Task Specialization, (*Under Prep*)
 3. CODACAN : Distributional Actor Critic with Hierarchical Attention-based State Representation for Dialogue Policy Learning (*Under review: Knowledge-Based Systems*)
+
+********************
+## Scientific Talks
+**Reinforcement Learning for Task-Oriented Dialogue Systems (Feb 2024)**  
+Cognitive Systems Research Group, University of Gothenburg
+Presentation on RL-based dialogue systems, covering attentional and graph-based structural state representations.
+
 ********************
 ## Lab and Visiting Experience
 
