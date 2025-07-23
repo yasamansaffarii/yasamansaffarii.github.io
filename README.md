@@ -61,6 +61,11 @@ MultiMedia Department, Tabriz Islamic Art University, Iran; Founded and managed 
 Faculty of Computer Science and Engineering, Beheshti University, Tehran, Iran; Attended the Engineering Statistics course.
 
 ********************
+## Scientific Talks
+**Reinforcement Learning for Task-Oriented Dialogue Systems (Feb 2024)**  
+Cognitive Systems Research Group, University of Gothenburg
+Presentation on RL-based dialogue systems, covering attentional and graph-based structural state representations.   
+********************
 ## Teaching Experience
 - **Invited Lecturer** (Feb 2022 - **Present**): Simulation and Modeling of System 2 (Python and ML in Game and Art) (Master students), MultiMedia Dept., Tabriz Islamic Art Univ., Iran (2 semesters)
 - **Teaching Assistant** (Sep 2023 - **Present**): Game Theory, Kashan University, Iran
