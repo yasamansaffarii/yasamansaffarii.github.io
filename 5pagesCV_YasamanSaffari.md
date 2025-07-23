@@ -54,7 +54,7 @@ Shariaty Technical and Vocational University, Iran; Supervisor: Mr. Yousef MusaZ
 ********************
 ## Scientific Talks
 **Reinforcement Learning for Task-Oriented Dialogue Systems (Feb 2024)**  
-- Cognitive Systems Research Group, University of Gothenburg
+- Cognitive Systems Research Group, **University of Gothenburg**
 - Presentation on RL-based dialogue systems, covering attentional and graph-based structural state representations.
 
 ********************
