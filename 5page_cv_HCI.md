@@ -18,15 +18,6 @@ This diverse background reflects my long-standing interest in **interactive syst
 I am committed to **open science**, cross-disciplinary collaboration, and applying AI to impactful, real-world challenges. My doctoral thesis is expected to be defended by **late summer 2025**, with two **Q1 journal papers (EAAI, KBS)** and one **national publication** as part of my research contributions.
 
 ************
-## Current Interests
-- Task-Oriented Dialogue Systems  
-- Reinforcement Learning  
-- Attention Mechanisms  
-- Topological State Representation (Graphs)  
-- Large Language Models (LLMs)  
-- Gaussian Mixture Models (GMM)  
-- Python
-***************
 ## Education
 
 **Ph.D. in Artificial Intelligence (2020 – Present)**  
@@ -53,6 +44,35 @@ Shariaty Technical and Vocational University, Iran; Supervisor: Mr. Yousef MusaZ
 2. RL-Driven Adapter Switching in Medical Dialogue Systems for Sub-Task Specialization, (*Under Prep*)
 3. CODACAN : Distributional Actor Critic with Hierarchical Attention-based State Representation for Dialogue Policy Learning (*Under review: Knowledge-Based Systems*)
 ********************
+
+## Some Human-Computer Interaction (HCI) and Interactive Systems Projects
+
+**Virtual Reality-Based Azari Dance Teaching**  
+This project involved capturing motion data from a professional dance instructor using motion capture technology. A virtual reality environment was created where an animated avatar of the instructor demonstrated the dance moves. Learners wore VR headsets and motion capture devices, allowing them to imitate the instructor’s movements. Their motions were recorded and compared to the original instructor’s movements to score learning accuracy. This approach enables immersive, embodied learning and objective assessment of motor skills.  
+*Publication:* Y. Saffari, S. Nasre-Esfahani, R. Hayati, Y. Sekhavat, "Investigating the effectiveness of teaching based on movement imitation in a virtual reality environment for Azari dance," *4th International Conference on Computer Games; Challenges and Opportunities*, 2019.
+
+**Tourism Data Visualization**  
+In this master’s level project, large-scale tourism data was visualized using Java-based tools. The visualization enabled stakeholders to analyze patterns and trends in tourism, improving decision-making and strategic planning. This work demonstrated the value of interactive data exploration for enhancing user understanding of complex datasets.
+
+**Topological State Representation for Dialogue Systems**  
+We proposed extracting topological information from the state transition graph of dialogue environments to improve reinforcement learning policies. By incorporating structural relationships between dialogue states, our approach enhanced state representation and learning efficiency, validated by significant empirical results.  
+*Publication:* Y. Saffari, J. Salimi Sartakhti, "A Graph-Based State Representation Learning In Episodic RL for Task-Oriented Dialogue Systems," *Engineering Applications of Artificial Intelligence*, 2025 (Q1, IF=8).
+
+**Dubbing Training System Using Voice Cloning**  
+Master’s thesis project focused on analyzing and modeling acoustic features of professional dubbing artists’ voices. Deep neural networks were trained to synthesize speech with the unique voice qualities of these artists. A user-facing dialogue system was developed to provide real-time feedback by comparing users’ voice recordings to the target dubbing voice, facilitating effective voice training.  
+*Publication:* Y. Saffari, A. Ghaffari, L. Dobakhi, B. Alizade-Ashrafi, "Computer Games for Dubbing Teaching: The 'Dublor Sho' Game," *5th International Conference on Computer Games; Challenges and Opportunities*, 2020.
+
+**Conflict Management Training via Serious Games**  
+We evaluated digital serious games aimed at teaching conflict management skills to adults. Using a quasi-experimental pretest-posttest design with control groups, the study demonstrated that game-based learning significantly improved participants’ conflict management abilities compared to traditional methods. The interactive multimedia nature of the games increased engagement and facilitated deeper learning of cooperation, competition, adaptability, and avoidance strategies.  
+*Publication:* S.A. Faregh, Y. Saffari, M. Jafari Sisis, "The Impact of Gamification on the Teaching and Learning Process of Conflict Management," *Technology of Education Journal (TEJ)*, 2021.
+
+**Serious Games Development for Cognitive Skills**  
+Developed multiple serious games for international competitions, targeting skills such as attention control and self-awareness. Examples include:  
+- *Troublesome Travel*: A survival and strategy 3D game emphasizing balance between survival and victory.  
+- *Happy Pencil*: An educational game promoting authenticity and self-expression.  
+Links: [Happy Pencil](https://v3.globalgamejam.org/2019/games/happypencil) | [Troublesome Travel](https://v3.globalgamejam.org/2020/games/troublesome-travel-9)
+********************
+
 ## Lab and Visiting Experience
 
 **Acoustic Lab Researcher (Sep 2019 – Jan 2020)**  
@@ -66,7 +86,7 @@ Faculty of Computer Science and Engineering, Beheshti University, Tehran, Iran; 
 
 ********************
 ## Scientific Talks
-**Reinforcement Learning for Task-Oriented Dialogue Systems (Feb 2024)**  
+**Topological State Representation for Task-Oriented Dialogue Systems (Feb 2024)**  
 Cognitive Systems Research Group, University of Gothenburg
 Presentation on RL-based dialogue systems, covering attentional and graph-based structural state representations.   
 ********************
