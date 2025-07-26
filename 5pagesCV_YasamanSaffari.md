@@ -7,7 +7,9 @@
 ******************
 [LinkedIn](https://www.linkedin.com/in/yasaman-saffari-22b937181) | [Google Scholar](https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=fa) | [Huggingface](https://huggingface.co/Yasamansaffari73) | [Researchgate](https://www.researchgate.net/profile/Yasaman-Saffari) | [Github](https://github.com/yasamansaffarii/yasamansaffarii.github.io)
 **********************
-I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). My research focuses on **Task-Oriented Dialogue Systems** using **Reinforcement Learning**, with a specific interest in developing **graph-based** and **attention-based** methods for **structural and topological state representation**. I am currently working on a **Medical Dialogue System** that integrates **Large Language Models** with **Adapter-based fine-tuning** and **Reinforcement Learning** to dynamically select medical sub-task behaviors such as diagnosis, inquiry, and recommendation. Another active project involves designing **GMM-based probabilistic topological state representations** for RL environments by leveraging graph learning to handle uncertainty and continuous topology. I have published one **national paper**, one **ISI paper (Engineering Applications of AI, Impact Factor 8) has been accepted**, and another is currently **under review after submitting a revised manuscript (Knowledge-Based Systems, Impact Factor 7.6)**. I plan to **defend my Ph.D. thesis by the end of this summer**.
+I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). 
+
+I specialize in interactive AI systems, topological reinforcement learning, and graph-based reasoning, aiming to bridge foundational machine learning with system-level applications. My research focuses on **Task-Oriented Dialogue Systems** using **Reinforcement Learning**, with a specific interest in developing **graph-based** and **attention-based** methods for **structural and topological state representation**. I am currently working on a **Medical Dialogue System** that integrates **Large Language Models** with **Adapter-based fine-tuning** and **Reinforcement Learning** to dynamically select medical sub-task behaviors such as diagnosis, inquiry, and recommendation. Another active project involves designing **GMM-based probabilistic topological state representations** for RL environments by leveraging graph learning to handle uncertainty and continuous topology. I have published one **national paper**, one **ISI paper (Engineering Applications of AI, Impact Factor 8) has been accepted**, and another is currently **under review after submitting a revised manuscript (Knowledge-Based Systems, Impact Factor 7.6)**. I plan to **defend my Ph.D. thesis by the end of this summer**.
 
 I hold a Master’s degree in **Intelligent Simulator Design** from Tabriz Islamic Art University, where my thesis focused on phonological modeling in dubbing through **Voice Cloning** using Deep Neural Networks. During my master’s, I also developed a **VR-based dance teaching application** using HTC VIVE and Neuron Mocap systems. I have practical experience with VR equipment and motion capture technologies, and I have taught music production using FL Studio.
 
@@ -40,7 +42,7 @@ Shariaty Technical and Vocational University, Iran; Supervisor: Mr. Yousef MusaZ
 ## Publications
 
 **Published**
-1. Y Saffari, J Salimi Sartakhti, "A Graph-Based State Representation Learning In Episodic Rl for Task-Oriented Dialogue Systems", *Engineering Applications of Artificial Intelligence*, 2025, **Q1, IF=8** (Accepted, Online Soon)
+1. Y Saffari, J Salimi Sartakhti, "A Graph-Based State Representation Learning In Episodic Rl for Task-Oriented Dialogue Systems", *Engineering Applications of Artificial Intelligence*, Vol. 160, 2025, Article 111793, **Q1, IF=8.0**, https://doi.org/10.1016/j.engappai.2025.111793
 2. Y Saffari, J Salimi Sartakhti, "Actor Double Critic Architecture for Dialogue System," *Journal of Electrical and Computer Engineering Innovations (JECEI)*, 11 (2), 2023
 3. SA Faregh, Y Saffari, M Jafari Sisis, "The Impact of Gamification on the Teaching and Learning Process of Conflict Management," *Technology of Education Journal (TEJ)*, 15 (4), 657-672, 2021
 4. Y Saffari, A Ghaffari, L Dobakhi, B Alizade-Ashrafi, "Computer Games for Dubbing Teaching: The 'Dublor Sho' Game," *The 5th International Conference on Computer Games; Challenges and Opportunities*, 2020
@@ -148,7 +150,7 @@ Bachelor thesis at Shariaty Technical and Vocational University; Website design 
 **Current Skills**
 
 - Dialogue system, RL, LLM, NLP, Graph, GMM
-- Python, Tensorflow, VScode, PyTorch, Hugging Face Transformers, Stable-Baselines3, Weights & Biases, TensorBoard, PyTorch Geometric, Docker, Linux
+- Python, Tensorflow, VScode, PyTorch, Hugging Face Transformers, Stable-Baselines3, Weights & Biases, TensorBoard, PyTorch Geometric, Docker, Linux, T5, LoRA, AdapterHub
  
 **latent Skills**
 - Voice processing
