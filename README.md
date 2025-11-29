@@ -13,6 +13,8 @@ I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en
 
 I hold a Master’s degree in **Intelligent Simulator Design** from Tabriz Islamic Art University, where my thesis focused on phonological modeling in dubbing through **Voice Cloning** using Deep Neural Networks. During my master’s, I also developed a **VR-based dance teaching application** using HTC VIVE and Neuron Mocap systems. I have practical experience with VR equipment and motion capture technologies, and I have taught music production using FL Studio. 
 
+I am looking for a postdoc position, preferably, or a PhD opportunity. For a PhD, I am particularly interested in human-robot interaction, which would allow me to integrate the knowledge from my Master’s and current PhD research. As I am nearing the completion of my PhD, I am eager to explore more advanced topics in AI and further develop my expertise if I pursue a new PhD program.
+
 ************
 ## Current Interests
 - Reinforcement Learning  
