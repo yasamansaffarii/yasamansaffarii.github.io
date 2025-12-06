@@ -30,7 +30,7 @@ Kashan University, Iran; Supervisor: Dr. Javad Salimi Sartakhti; Research on Dia
 **Master of Arts in Intelligent Simulator Design (2018 – 2020)**  
 Tabriz Islamic Art University, Iran; Supervisor: Dr. Abbas Ghaffari; Second Instructor: Dr. Leila Dubakhti; Advisor: Dr. Alizadeh; Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using Simulation of Lasting Voices in Dubbing (Voice Cloning with Deep Neural Networks); GPA: 3.79.
 
-**Bachelor of Software Computer Engineering (2014 – 2018)**  
+**Bachelor of Software Computer Engineering (2013 – 2018)**  
 Shariaty Technical and Vocational University, Iran; Supervisor: Mr. Yousef MusaZadeh; Thesis: Blood Laboratory Website Design using PHP; GPA: 3.46.
 
 ********************
