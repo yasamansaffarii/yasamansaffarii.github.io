@@ -1,6 +1,6 @@
 # Yasaman Saffari
 
-**PhD Candidate - Kashan University, Iran**
+**PhD - Kashan University, Iran**
 ***************************
 📧 Email: yasamansaffarii@gmail.com
 ******************
@@ -8,7 +8,7 @@
 **********************
 # About Me
 
-I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). My research focuses on **Task-Oriented Dialogue Systems** using **Reinforcement Learning**, with a specific interest in developing **Homology-graph-based** and **attention-based** methods for **structural and topological state representation**. I have published one **national paper**, Two **ISI paper (Engineering Applications of AI, Impact Factor 8) AND (Knowledge-Based Systems, Impact Factor 7.6) has been published**. I plan to **defend my Ph.D. thesis by the end of this March 2026**.  
+I hold a Ph.D. degree at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). My research focuses on **Task-Oriented Dialogue Systems** using **Reinforcement Learning**, with a specific interest in developing **Homology-graph-based** and **attention-based** methods for **structural and topological state representation**. I have published one **national paper**. Two **ISI papers also (Engineering Applications of AI, Impact Factor 8) AND (Knowledge-Based Systems, Impact Factor 7.6) have been published**. 
 
 I hold a Master’s degree in **Intelligent Simulator Design** from Tabriz Islamic Art University, where my thesis focused on phonological modeling in dubbing through **Voice Cloning** using Deep Neural Networks. During my master’s, I also developed a **VR-based dance teaching application** using HTC VIVE and Neuron Mocap systems.
 
@@ -22,8 +22,8 @@ I hold a Master’s degree in **Intelligent Simulator Design** from Tabriz Islam
 ***************
 ## Education
 
-**Ph.D. in Artificial Intelligence (2020 – Present)**  
-Kashan University, Iran; Supervisor: Dr. Javad Salimi Sartakhti; Research on Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention, and Transformers; GPA: 3.81.
+**Ph.D. in Artificial Intelligence (2020 – 2026)**  
+Kashan University, Iran; Supervisor: Dr. Javad Salimi Sartakhti; Research on Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention, and Transformers; GPA: 3.81. Thesies grade: A, 19.65/20
 
 **Master of Arts in Intelligent Simulator Design (2018 – 2020)**  
 Tabriz Islamic Art University, Iran; Supervisor: Dr. Abbas Ghaffari; Second Instructor: Dr. Leila Dubakhti; Advisor: Dr. Alizadeh; Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using Simulation of Lasting Voices in Dubbing (Voice Cloning with Deep Neural Networks); GPA: 3.79.
@@ -35,8 +35,8 @@ Shariaty Technical and Vocational University, Iran; Supervisor: Mr. Yousef MusaZ
 ## Publications
 
 **Published**
-1. Y Saffari, J Salimi Sartakhti, "A Graph-Based State Representation Learning In Episodic Rl for Task-Oriented Dialogue Systems", *Engineering Applications of Artificial Intelligence*, 2025, **Q1, IF=8** (Accepted, Online Soon)
-2. "CODACAN : Distributional Actor Critic with Hierarchical Attention-based State Representation for Dialogue Policy Learning", *Knowledge-Based Systems* , 2025, **Q1, IF=7.6** (Accepted, Online Soon)
+1. Y Saffari, J Salimi Sartakhti, "A Graph-Based State Representation Learning In Episodic Rl for Task-Oriented Dialogue Systems", *Engineering Applications of Artificial Intelligence*, 2025, **Q1, IF=8** 
+2. "CODACAN : Distributional Actor Critic with Hierarchical Attention-based State Representation for Dialogue Policy Learning", *Knowledge-Based Systems* , 2025, **Q1, IF=7.6** 
 3. Y Saffari, J Salimi Sartakhti, "Actor Double Critic Architecture for Dialogue System," *Journal of Electrical and Computer Engineering Innovations (JECEI)*, 11 (2), 2023
 4. SA Faregh, Y Saffari, M Jafari Sisis, "The Impact of Gamification on the Teaching and Learning Process of Conflict Management," *Technology of Education Journal (TEJ)*, 15 (4), 657-672, 2021
 5. Y Saffari, A Ghaffari, L Dobakhi, B Alizade-Ashrafi, "Computer Games for Dubbing Teaching: The 'Dublor Sho' Game," *The 5th International Conference on Computer Games; Challenges and Opportunities*, 2020
@@ -141,7 +141,7 @@ Bachelor thesis at Shariaty Technical and Vocational University; Website design 
 **Current Skills**
 
 - Dialogue system, RL, LLM, NLP, Graph, GMM
-- Python, Tensorflow, VScode, PyTorch, Hugging Face Transformers, Stable-Baselines3, Weights & Biases, TensorBoard, PyTorch Geometric, Docker, Linux
+- Python, Tensorflow, VScode, PyTorch, Hugging Face Transformers, Stable-Baselines3, Weights & Biases, TensorBoard, PyTorch Geometric, Docker
  
 **latent Skills**
 - Voice processing
