@@ -12,13 +12,13 @@
 
 <br/>
 
-<a href="https://yasamansaffarii.github.io">
+<a href="https://github.com/yasamansaffarii">
 <img src="https://img.shields.io/badge/🌐%20Research%20Portfolio-0f172a?style=for-the-badge&labelColor=020617"/>
 </a>
-<a href="https://scholar.google.com/">
+<a href="https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/📚%20Google%20Scholar-1e3a8a?style=for-the-badge&labelColor=020617"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/yasaman-s-22b937181">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-075985?style=for-the-badge&labelColor=020617"/>
 </a>
 <a href="https://github.com/yasamansaffarii">
